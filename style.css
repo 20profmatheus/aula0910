@@ -4,7 +4,8 @@ body {
 
 #imagemsite {
     width: 100%;
-    height: auto;    
+    height: auto;
+    transform: scaleX(-1);    
 }
 
 h1 {
