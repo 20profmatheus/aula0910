@@ -4,6 +4,7 @@ body {
 
 #imagemsite {
     width: 75%;
+    border-radius: 8px;
 }
 
 h1 {
